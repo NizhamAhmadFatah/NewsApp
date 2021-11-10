@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="berita">Sandiaga Ungkap Pengalaman Jumpa Hiu Paus di Pulau Namatota Baca artikel CNN Indonesia "Sandiaga Ungkap Pengalaman Jumpa Hiu Paus di Pulau Namatota" selengkapnya di sini: https://www.cnnindonesia.com/nasional/20211027094932-25-712934/sandiaga-ungkap-pengalaman-jumpa-hiu-paus-di-pulau-namatota.</string>
+    <string name="content_news">Image News</string>
+    <string name="content_image_news_detail">Image News Detail</string>
+    <string name="separate">|</string>
+</resources>
